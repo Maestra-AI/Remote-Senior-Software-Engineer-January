@@ -1,4 +1,4 @@
-# Remote Sr. Software Engineering Roles Posted in January compiled b Maestra
+# Remote Sr. Software Engineering Roles Posted in January
 <div align="center">
   <!-- Intro text & link -->
   <p>
